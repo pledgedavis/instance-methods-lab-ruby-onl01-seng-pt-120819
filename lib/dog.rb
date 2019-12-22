@@ -5,7 +5,7 @@ def bark
 end
 end
 
-
+fideo = Dog.new
 
 
 
